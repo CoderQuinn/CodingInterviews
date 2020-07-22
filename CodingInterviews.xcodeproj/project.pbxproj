@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E414D4FC24C752A600DD41F3 /* Fibonacci.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E414D4FB24C752A600DD41F3 /* Fibonacci.cpp */; };
+		E414D4FF24C756EF00DD41F3 /* jumpFloor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E414D4FE24C756EF00DD41F3 /* jumpFloor.cpp */; };
+		E414D50224C759E300DD41F3 /* JumpFloorII.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E414D50124C759E300DD41F3 /* JumpFloorII.cpp */; };
+		E414D50524C75E6800DD41F3 /* NumberOf1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E414D50424C75E6800DD41F3 /* NumberOf1.cpp */; };
+		E414D50824C767A100DD41F3 /* CutRope.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E414D50724C767A100DD41F3 /* CutRope.cpp */; };
 		E44664E324C05A790008DCEE /* EntryNodeOfLoop.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E44664E224C05A790008DCEE /* EntryNodeOfLoop.cpp */; };
 		E44664E624C084D70008DCEE /* DeleteDuplication.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E44664E524C084D70008DCEE /* DeleteDuplication.cpp */; };
 		E44664EC24C18A640008DCEE /* CopyRandomList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E44664EB24C18A640008DCEE /* CopyRandomList.cpp */; };
@@ -36,6 +41,11 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E414D4FB24C752A600DD41F3 /* Fibonacci.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Fibonacci.cpp; sourceTree = "<group>"; };
+		E414D4FE24C756EF00DD41F3 /* jumpFloor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = jumpFloor.cpp; sourceTree = "<group>"; };
+		E414D50124C759E300DD41F3 /* JumpFloorII.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = JumpFloorII.cpp; sourceTree = "<group>"; };
+		E414D50424C75E6800DD41F3 /* NumberOf1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = NumberOf1.cpp; sourceTree = "<group>"; };
+		E414D50724C767A100DD41F3 /* CutRope.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CutRope.cpp; sourceTree = "<group>"; };
 		E44664E224C05A790008DCEE /* EntryNodeOfLoop.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = EntryNodeOfLoop.cpp; sourceTree = "<group>"; };
 		E44664E524C084D70008DCEE /* DeleteDuplication.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = DeleteDuplication.cpp; sourceTree = "<group>"; };
 		E44664EB24C18A640008DCEE /* CopyRandomList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = CopyRandomList.cpp; sourceTree = "<group>"; };
@@ -64,70 +74,115 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		E44664E124C05A420008DCEE /* 56 链表中环的入口结点 */ = {
+		E414D4FA24C7528400DD41F3 /* 7 斐波那契数列 */ = {
+			isa = PBXGroup;
+			children = (
+				E414D4FB24C752A600DD41F3 /* Fibonacci.cpp */,
+			);
+			path = "7 斐波那契数列";
+			sourceTree = "<group>";
+		};
+		E414D4FD24C756B000DD41F3 /* 8 跳台阶 */ = {
+			isa = PBXGroup;
+			children = (
+				E414D4FE24C756EF00DD41F3 /* jumpFloor.cpp */,
+			);
+			path = "8 跳台阶";
+			sourceTree = "<group>";
+		};
+		E414D50024C7599D00DD41F3 /* 9 变态台阶跳 */ = {
+			isa = PBXGroup;
+			children = (
+				E414D50124C759E300DD41F3 /* JumpFloorII.cpp */,
+			);
+			path = "9 变态台阶跳";
+			sourceTree = "<group>";
+		};
+		E414D50324C75D9700DD41F3 /* 11 二进制表示中1的个数 */ = {
+			isa = PBXGroup;
+			children = (
+				E414D50424C75E6800DD41F3 /* NumberOf1.cpp */,
+			);
+			path = "11 二进制表示中1的个数";
+			sourceTree = "<group>";
+		};
+		E414D50624C7674A00DD41F3 /* 67 剪绳子 */ = {
+			isa = PBXGroup;
+			children = (
+				E414D50724C767A100DD41F3 /* CutRope.cpp */,
+			);
+			path = "67 剪绳子";
+			sourceTree = "<group>";
+		};
+		E44664E124C05A420008DCEE /* 55 链表中环的入口结点 */ = {
 			isa = PBXGroup;
 			children = (
 				E44664E224C05A790008DCEE /* EntryNodeOfLoop.cpp */,
 			);
-			path = "56 链表中环的入口结点";
+			path = "55 链表中环的入口结点";
 			sourceTree = "<group>";
 		};
-		E44664E424C083250008DCEE /* 57 删除链表中重复的结点 */ = {
+		E44664E424C083250008DCEE /* 56 删除链表中重复的结点 */ = {
 			isa = PBXGroup;
 			children = (
 				E44664E524C084D70008DCEE /* DeleteDuplication.cpp */,
 			);
-			path = "57 删除链表中重复的结点";
+			path = "56 删除链表中重复的结点";
 			sourceTree = "<group>";
 		};
-		E44664EA24C18A100008DCEE /* 26 复杂链表的复制 */ = {
+		E44664EA24C18A100008DCEE /* 25 复杂链表的复制 */ = {
 			isa = PBXGroup;
 			children = (
 				E44664EB24C18A640008DCEE /* CopyRandomList.cpp */,
 			);
-			path = "26 复杂链表的复制";
+			path = "25 复杂链表的复制";
 			sourceTree = "<group>";
 		};
-		E44664F024C21C090008DCEE /* 07 用两个栈实现队列 */ = {
+		E44664F024C21C090008DCEE /* 5 用两个栈实现队列 */ = {
 			isa = PBXGroup;
 			children = (
 				E44664F124C21C3D0008DCEE /* MyQueue.cpp */,
 			);
-			path = "07 用两个栈实现队列";
+			path = "5 用两个栈实现队列";
 			sourceTree = "<group>";
 		};
-		E44664F324C2982C0008DCEE /* 22 栈的压入弹出序列 */ = {
+		E44664F324C2982C0008DCEE /* 21 栈的压入弹出序列 */ = {
 			isa = PBXGroup;
 			children = (
 				E44664F424C298AE0008DCEE /* IsPopOrder.cpp */,
 			);
-			path = "22 栈的压入弹出序列";
+			path = "21 栈的压入弹出序列";
 			sourceTree = "<group>";
 		};
-		E44664F624C2AA060008DCEE /* 21 包括min函数的栈 */ = {
+		E44664F624C2AA060008DCEE /* 20 包括min函数的栈 */ = {
 			isa = PBXGroup;
 			children = (
 				E44664F724C2B6A70008DCEE /* MinStack.cpp */,
 			);
-			path = "21 包括min函数的栈";
+			path = "20 包括min函数的栈";
 			sourceTree = "<group>";
 		};
 		E45BF76424B978EB0051A649 = {
 			isa = PBXGroup;
 			children = (
-				E4EF837624BF5BAB00D42D2C /* 05 从尾到头打印链表 */,
-				E44664F024C21C090008DCEE /* 07 用两个栈实现队列 */,
-				E4EF838224BF823200D42D2C /* 16 反转链表 */,
-				E4EF838524BF8F4D00D42D2C /* 17 合并两个排序的链表 */,
-				E4EF837C24BF7C4C00D42D2C /* 18 删除链表的节点 */,
-				E44664F624C2AA060008DCEE /* 21 包括min函数的栈 */,
-				E44664F324C2982C0008DCEE /* 22 栈的压入弹出序列 */,
-				E44664EA24C18A100008DCEE /* 26 复杂链表的复制 */,
-				E4EF838B24C02B3E00D42D2C /* 37 两个链表的第一个公共结点 */,
-				E4EF838824C024A400D42D2C /* 45 圆圈中最后剩下的数字 */,
-				E44664E124C05A420008DCEE /* 56 链表中环的入口结点 */,
-				E44664E424C083250008DCEE /* 57 删除链表中重复的结点 */,
-				E4EF837924BF6D9300D42D2C /* 15 链表中倒数第k个结点 */,
+				E4EF837624BF5BAB00D42D2C /* 3 从尾到头打印链表 */,
+				E44664F024C21C090008DCEE /* 5 用两个栈实现队列 */,
+				E414D4FA24C7528400DD41F3 /* 7 斐波那契数列 */,
+				E414D4FD24C756B000DD41F3 /* 8 跳台阶 */,
+				E414D50024C7599D00DD41F3 /* 9 变态台阶跳 */,
+				E414D50324C75D9700DD41F3 /* 11 二进制表示中1的个数 */,
+				E4EF837924BF6D9300D42D2C /* 14 链表中倒数第k个结点 */,
+				E4EF838224BF823200D42D2C /* 15 反转链表 */,
+				E4EF838524BF8F4D00D42D2C /* 16 合并两个排序的链表 */,
+				E4EF837C24BF7C4C00D42D2C /* 删除链表的节点 */,
+				E44664F624C2AA060008DCEE /* 20 包括min函数的栈 */,
+				E44664F324C2982C0008DCEE /* 21 栈的压入弹出序列 */,
+				E44664EA24C18A100008DCEE /* 25 复杂链表的复制 */,
+				E4EF838B24C02B3E00D42D2C /* 36 两个链表的第一个公共结点 */,
+				E4EF838824C024A400D42D2C /* 46 圆圈中最后剩下的数字 */,
+				E44664E124C05A420008DCEE /* 55 链表中环的入口结点 */,
+				E44664E424C083250008DCEE /* 56 删除链表中重复的结点 */,
+				E414D50624C7674A00DD41F3 /* 67 剪绳子 */,
 				E45BF76F24B978EB0051A649 /* CodingInterviews */,
 				E45BF76E24B978EB0051A649 /* Products */,
 			);
@@ -149,60 +204,60 @@
 			path = CodingInterviews;
 			sourceTree = "<group>";
 		};
-		E4EF837624BF5BAB00D42D2C /* 05 从尾到头打印链表 */ = {
+		E4EF837624BF5BAB00D42D2C /* 3 从尾到头打印链表 */ = {
 			isa = PBXGroup;
 			children = (
 				E4EF837724BF5C0800D42D2C /* PrintListFromTailToHead.cpp */,
 			);
-			path = "05 从尾到头打印链表";
+			path = "3 从尾到头打印链表";
 			sourceTree = "<group>";
 		};
-		E4EF837924BF6D9300D42D2C /* 15 链表中倒数第k个结点 */ = {
+		E4EF837924BF6D9300D42D2C /* 14 链表中倒数第k个结点 */ = {
 			isa = PBXGroup;
 			children = (
 				E4EF837A24BF6DD700D42D2C /* FindKthToTail.cpp */,
 			);
-			path = "15 链表中倒数第k个结点";
+			path = "14 链表中倒数第k个结点";
 			sourceTree = "<group>";
 		};
-		E4EF837C24BF7C4C00D42D2C /* 18 删除链表的节点 */ = {
+		E4EF837C24BF7C4C00D42D2C /* 删除链表的节点 */ = {
 			isa = PBXGroup;
 			children = (
 				E4EF837D24BF7CA300D42D2C /* DeleteNode.cpp */,
 			);
-			path = "18 删除链表的节点";
+			path = "删除链表的节点";
 			sourceTree = "<group>";
 		};
-		E4EF838224BF823200D42D2C /* 16 反转链表 */ = {
+		E4EF838224BF823200D42D2C /* 15 反转链表 */ = {
 			isa = PBXGroup;
 			children = (
 				E4EF838324BF826100D42D2C /* ReverseList.cpp */,
 			);
-			path = "16 反转链表";
+			path = "15 反转链表";
 			sourceTree = "<group>";
 		};
-		E4EF838524BF8F4D00D42D2C /* 17 合并两个排序的链表 */ = {
+		E4EF838524BF8F4D00D42D2C /* 16 合并两个排序的链表 */ = {
 			isa = PBXGroup;
 			children = (
 				E4EF838624BF8F8600D42D2C /* MergeTwoLists.cpp */,
 			);
-			path = "17 合并两个排序的链表";
+			path = "16 合并两个排序的链表";
 			sourceTree = "<group>";
 		};
-		E4EF838824C024A400D42D2C /* 45 圆圈中最后剩下的数字 */ = {
+		E4EF838824C024A400D42D2C /* 46 圆圈中最后剩下的数字 */ = {
 			isa = PBXGroup;
 			children = (
 				E4EF838924C0254D00D42D2C /* LastRemaining.cpp */,
 			);
-			path = "45 圆圈中最后剩下的数字";
+			path = "46 圆圈中最后剩下的数字";
 			sourceTree = "<group>";
 		};
-		E4EF838B24C02B3E00D42D2C /* 37 两个链表的第一个公共结点 */ = {
+		E4EF838B24C02B3E00D42D2C /* 36 两个链表的第一个公共结点 */ = {
 			isa = PBXGroup;
 			children = (
 				E4EF838C24C02B7400D42D2C /* FindFirstCommonNode.cpp */,
 			);
-			path = "37 两个链表的第一个公共结点";
+			path = "36 两个链表的第一个公共结点";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -263,15 +318,20 @@
 			files = (
 				E44664F524C298AE0008DCEE /* IsPopOrder.cpp in Sources */,
 				E44664E324C05A790008DCEE /* EntryNodeOfLoop.cpp in Sources */,
+				E414D50824C767A100DD41F3 /* CutRope.cpp in Sources */,
 				E4EF838D24C02B7400D42D2C /* FindFirstCommonNode.cpp in Sources */,
 				E4EF837E24BF7CA300D42D2C /* DeleteNode.cpp in Sources */,
 				E4EF838724BF8F8600D42D2C /* MergeTwoLists.cpp in Sources */,
+				E414D50524C75E6800DD41F3 /* NumberOf1.cpp in Sources */,
 				E4EF837B24BF6DD700D42D2C /* FindKthToTail.cpp in Sources */,
+				E414D4FC24C752A600DD41F3 /* Fibonacci.cpp in Sources */,
 				E4EF837824BF5C0800D42D2C /* PrintListFromTailToHead.cpp in Sources */,
 				E45BF77124B978EB0051A649 /* main.cpp in Sources */,
+				E414D50224C759E300DD41F3 /* JumpFloorII.cpp in Sources */,
 				E44664F224C21C3D0008DCEE /* MyQueue.cpp in Sources */,
 				E44664EC24C18A640008DCEE /* CopyRandomList.cpp in Sources */,
 				E4EF838424BF826100D42D2C /* ReverseList.cpp in Sources */,
+				E414D4FF24C756EF00DD41F3 /* jumpFloor.cpp in Sources */,
 				E44664F824C2B6A70008DCEE /* MinStack.cpp in Sources */,
 				E4EF838A24C0254D00D42D2C /* LastRemaining.cpp in Sources */,
 				E44664E624C084D70008DCEE /* DeleteDuplication.cpp in Sources */,
