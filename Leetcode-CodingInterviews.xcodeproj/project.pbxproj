@@ -72,9 +72,9 @@
 		E4AE92FA24EC6E2800686F47 /* Problems */ = {
 			isa = PBXGroup;
 			children = (
-				E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */,
 				E4CA103724EB99BE0036522E /* 25 mergeTwoLists.cpp */,
 				E4CA103924EB9E310036522E /* 40 getLeastNumbers.cpp */,
+				E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
