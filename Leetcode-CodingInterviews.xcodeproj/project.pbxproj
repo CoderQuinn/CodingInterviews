@@ -7,10 +7,32 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E415544C24FAAF5C001DD7A5 /* 05 replaceSpace.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E415544B24FAAF5C001DD7A5 /* 05 replaceSpace.cpp */; };
 		E421C36424EB7E9E00C100FB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E421C36324EB7E9E00C100FB /* main.cpp */; };
 		E421C36E24EB7EF300C100FB /* 51 reversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */; };
+		E4541E0924F88DA700965ADA /* 06 reversePrint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E0824F88DA700965ADA /* 06 reversePrint.cpp */; };
+		E4541E0B24F8933600965ADA /* 14 - I cuttingRope.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E0A24F8933600965ADA /* 14 - I cuttingRope.cpp */; };
+		E4541E0D24F8952500965ADA /* 18 deleteNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E0C24F8952500965ADA /* 18 deleteNode.cpp */; };
+		E4541E0F24F8976C00965ADA /* 22 getKthFromEnd.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E0E24F8976C00965ADA /* 22 getKthFromEnd.cpp */; };
+		E4541E1124F89A2400965ADA /* 24 reverseList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E1024F89A2400965ADA /* 24 reverseList.cpp */; };
+		E4541E1324F89EFE00965ADA /* 62 lastRemaining.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E1224F89EFE00965ADA /* 62 lastRemaining.cpp */; };
+		E4541E1524F89F8300965ADA /* 52 getIntersectionNode.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E1424F89F8300965ADA /* 52 getIntersectionNode.cpp */; };
+		E4541E1724F8A1BB00965ADA /* 35 copyRandomList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E1624F8A1BB00965ADA /* 35 copyRandomList.cpp */; };
+		E4541E1924F8A97F00965ADA /* 15 hammingWeight.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E1824F8A97F00965ADA /* 15 hammingWeight.cpp */; };
+		E4541E1D24F8AEA800965ADA /* 27 mirrorTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E1C24F8AEA800965ADA /* 27 mirrorTree.cpp */; };
+		E4541E2124F8B2D600965ADA /* 28 isSymmetric.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2024F8B2D600965ADA /* 28 isSymmetric.cpp */; };
+		E4541E2324F8BC7F00965ADA /* 32 - I levelOrder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2224F8BC7F00965ADA /* 32 - I levelOrder.cpp */; };
+		E4541E2524F8C75500965ADA /* 26 isSubStructure.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2424F8C75500965ADA /* 26 isSubStructure.cpp */; };
+		E4541E2724F8E58200965ADA /* 07 buildTree.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2624F8E58200965ADA /* 07 buildTree.cpp */; };
+		E4541E2924F8E68E00965ADA /* 32 - II levelOrder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2824F8E68E00965ADA /* 32 - II levelOrder.cpp */; };
+		E4541E2B24F8E81F00965ADA /* 32 - III levelOrder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2A24F8E81E00965ADA /* 32 - III levelOrder.cpp */; };
+		E4541E2D24F8EC5600965ADA /* 55 - I maxDepth.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2C24F8EC5600965ADA /* 55 - I maxDepth.cpp */; };
+		E4541E2F24F8F03F00965ADA /* 55 - II isBalanced.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2E24F8F03F00965ADA /* 55 - II isBalanced.cpp */; };
+		E4541E3124F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E3024F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp */; };
+		E4541E3324F9074900965ADA /* 68 - II lowestCommonAncestor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E3224F9074900965ADA /* 68 - II lowestCommonAncestor.cpp */; };
 		E4CA103824EB99BE0036522E /* 25 mergeTwoLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4CA103724EB99BE0036522E /* 25 mergeTwoLists.cpp */; };
 		E4CA103A24EB9E310036522E /* 40 getLeastNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4CA103924EB9E310036522E /* 40 getLeastNumbers.cpp */; };
+		E4CB2E2B24F6B06E00D5EA1A /* 41 MedianFinder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4CB2E2A24F6B06E00D5EA1A /* 41 MedianFinder.cpp */; };
 		E4EAE79124F656B1001AF2B1 /* 03 findRepeatNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4EAE79024F656B1001AF2B1 /* 03 findRepeatNumber.cpp */; };
 		E4EAE79324F657F9001AF2B1 /* 04 findNumberIn2DArray.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4EAE79224F657F9001AF2B1 /* 04 findNumberIn2DArray.cpp */; };
 		E4EAE79524F65B49001AF2B1 /* 50 firstUniqChar.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4EAE79424F65B49001AF2B1 /* 50 firstUniqChar.cpp */; };
@@ -40,11 +62,33 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		E415544B24FAAF5C001DD7A5 /* 05 replaceSpace.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "05 replaceSpace.cpp"; sourceTree = "<group>"; };
 		E421C36024EB7E9E00C100FB /* Leetcode-CodingInterviews */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Leetcode-CodingInterviews"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E421C36324EB7E9E00C100FB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "51 reversePairs.cpp"; sourceTree = "<group>"; };
+		E4541E0824F88DA700965ADA /* 06 reversePrint.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "06 reversePrint.cpp"; sourceTree = "<group>"; };
+		E4541E0A24F8933600965ADA /* 14 - I cuttingRope.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "14 - I cuttingRope.cpp"; sourceTree = "<group>"; };
+		E4541E0C24F8952500965ADA /* 18 deleteNode.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "18 deleteNode.cpp"; sourceTree = "<group>"; };
+		E4541E0E24F8976C00965ADA /* 22 getKthFromEnd.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "22 getKthFromEnd.cpp"; sourceTree = "<group>"; };
+		E4541E1024F89A2400965ADA /* 24 reverseList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "24 reverseList.cpp"; sourceTree = "<group>"; };
+		E4541E1224F89EFE00965ADA /* 62 lastRemaining.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "62 lastRemaining.cpp"; sourceTree = "<group>"; };
+		E4541E1424F89F8300965ADA /* 52 getIntersectionNode.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "52 getIntersectionNode.cpp"; sourceTree = "<group>"; };
+		E4541E1624F8A1BB00965ADA /* 35 copyRandomList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "35 copyRandomList.cpp"; sourceTree = "<group>"; };
+		E4541E1824F8A97F00965ADA /* 15 hammingWeight.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "15 hammingWeight.cpp"; sourceTree = "<group>"; };
+		E4541E1C24F8AEA800965ADA /* 27 mirrorTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "27 mirrorTree.cpp"; sourceTree = "<group>"; };
+		E4541E2024F8B2D600965ADA /* 28 isSymmetric.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "28 isSymmetric.cpp"; sourceTree = "<group>"; };
+		E4541E2224F8BC7F00965ADA /* 32 - I levelOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "32 - I levelOrder.cpp"; sourceTree = "<group>"; };
+		E4541E2424F8C75500965ADA /* 26 isSubStructure.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "26 isSubStructure.cpp"; sourceTree = "<group>"; };
+		E4541E2624F8E58200965ADA /* 07 buildTree.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "07 buildTree.cpp"; sourceTree = "<group>"; };
+		E4541E2824F8E68E00965ADA /* 32 - II levelOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "32 - II levelOrder.cpp"; sourceTree = "<group>"; };
+		E4541E2A24F8E81E00965ADA /* 32 - III levelOrder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "32 - III levelOrder.cpp"; sourceTree = "<group>"; };
+		E4541E2C24F8EC5600965ADA /* 55 - I maxDepth.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "55 - I maxDepth.cpp"; sourceTree = "<group>"; };
+		E4541E2E24F8F03F00965ADA /* 55 - II isBalanced.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "55 - II isBalanced.cpp"; sourceTree = "<group>"; };
+		E4541E3024F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "68 - I lowestCommonAncestor.cpp"; sourceTree = "<group>"; };
+		E4541E3224F9074900965ADA /* 68 - II lowestCommonAncestor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "68 - II lowestCommonAncestor.cpp"; sourceTree = "<group>"; };
 		E4CA103724EB99BE0036522E /* 25 mergeTwoLists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "25 mergeTwoLists.cpp"; sourceTree = "<group>"; };
 		E4CA103924EB9E310036522E /* 40 getLeastNumbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "40 getLeastNumbers.cpp"; sourceTree = "<group>"; };
+		E4CB2E2A24F6B06E00D5EA1A /* 41 MedianFinder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "41 MedianFinder.cpp"; sourceTree = "<group>"; };
 		E4EAE79024F656B1001AF2B1 /* 03 findRepeatNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "03 findRepeatNumber.cpp"; sourceTree = "<group>"; };
 		E4EAE79224F657F9001AF2B1 /* 04 findNumberIn2DArray.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "04 findNumberIn2DArray.cpp"; sourceTree = "<group>"; };
 		E4EAE79424F65B49001AF2B1 /* 50 firstUniqChar.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "50 firstUniqChar.cpp"; sourceTree = "<group>"; };
@@ -102,21 +146,43 @@
 			children = (
 				E4EAE79024F656B1001AF2B1 /* 03 findRepeatNumber.cpp */,
 				E4EAE79224F657F9001AF2B1 /* 04 findNumberIn2DArray.cpp */,
+				E415544B24FAAF5C001DD7A5 /* 05 replaceSpace.cpp */,
+				E4541E0824F88DA700965ADA /* 06 reversePrint.cpp */,
+				E4541E2624F8E58200965ADA /* 07 buildTree.cpp */,
 				E4EAE79624F65E03001AF2B1 /* 09 CQueue.cpp */,
 				E4EAE79824F661C7001AF2B1 /* 11 minArray.cpp */,
+				E4541E0A24F8933600965ADA /* 14 - I cuttingRope.cpp */,
+				E4541E1824F8A97F00965ADA /* 15 hammingWeight.cpp */,
+				E4541E0C24F8952500965ADA /* 18 deleteNode.cpp */,
+				E4541E0E24F8976C00965ADA /* 22 getKthFromEnd.cpp */,
+				E4541E1024F89A2400965ADA /* 24 reverseList.cpp */,
 				E4CA103724EB99BE0036522E /* 25 mergeTwoLists.cpp */,
+				E4541E2424F8C75500965ADA /* 26 isSubStructure.cpp */,
+				E4541E1C24F8AEA800965ADA /* 27 mirrorTree.cpp */,
+				E4541E2024F8B2D600965ADA /* 28 isSymmetric.cpp */,
 				E4EAE79A24F66EA9001AF2B1 /* 29 spiralOrder.cpp */,
 				E4EAE79E24F6806A001AF2B1 /* 30 MinStack.cpp */,
+				E4541E2224F8BC7F00965ADA /* 32 - I levelOrder.cpp */,
+				E4541E2824F8E68E00965ADA /* 32 - II levelOrder.cpp */,
+				E4541E2A24F8E81E00965ADA /* 32 - III levelOrder.cpp */,
+				E4541E1624F8A1BB00965ADA /* 35 copyRandomList.cpp */,
 				E4EAE79C24F67DCF001AF2B1 /* 39 majorityElement.cpp */,
 				E4CA103924EB9E310036522E /* 40 getLeastNumbers.cpp */,
+				E4CB2E2A24F6B06E00D5EA1A /* 41 MedianFinder.cpp */,
 				E4FC44F824ECF7480015DB63 /* 42 maxSubArray.cpp */,
 				E4EAE7A024F6837E001AF2B1 /* 48 lengthOfLongestSubstring.cpp */,
 				E4EAE79424F65B49001AF2B1 /* 50 firstUniqChar.cpp */,
 				E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */,
+				E4541E1424F89F8300965ADA /* 52 getIntersectionNode.cpp */,
 				E4EAE7A624F69563001AF2B1 /* 53 - I search.cpp */,
 				E4EAE7A824F69C1F001AF2B1 /* 53 - II missingNumber.cpp */,
+				E4541E2C24F8EC5600965ADA /* 55 - I maxDepth.cpp */,
+				E4541E2E24F8F03F00965ADA /* 55 - II isBalanced.cpp */,
 				E4EAE7A224F687A8001AF2B1 /* 59 - I maxSlidingWindow.cpp */,
 				E4EAE7A424F68DE0001AF2B1 /* 59 - II MaxQueue.cpp */,
+				E4541E1224F89EFE00965ADA /* 62 lastRemaining.cpp */,
+				E4541E3024F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp */,
+				E4541E3224F9074900965ADA /* 68 - II lowestCommonAncestor.cpp */,
 			);
 			path = Problems;
 			sourceTree = "<group>";
@@ -179,23 +245,45 @@
 			buildActionMask = 2147483647;
 			files = (
 				E4EAE7A124F6837E001AF2B1 /* 48 lengthOfLongestSubstring.cpp in Sources */,
+				E4541E1124F89A2400965ADA /* 24 reverseList.cpp in Sources */,
+				E4CB2E2B24F6B06E00D5EA1A /* 41 MedianFinder.cpp in Sources */,
 				E4CA103A24EB9E310036522E /* 40 getLeastNumbers.cpp in Sources */,
+				E4541E2124F8B2D600965ADA /* 28 isSymmetric.cpp in Sources */,
+				E4541E2524F8C75500965ADA /* 26 isSubStructure.cpp in Sources */,
+				E4541E1924F8A97F00965ADA /* 15 hammingWeight.cpp in Sources */,
+				E4541E2D24F8EC5600965ADA /* 55 - I maxDepth.cpp in Sources */,
+				E4541E0924F88DA700965ADA /* 06 reversePrint.cpp in Sources */,
+				E415544C24FAAF5C001DD7A5 /* 05 replaceSpace.cpp in Sources */,
 				E4EAE7A924F69C1F001AF2B1 /* 53 - II missingNumber.cpp in Sources */,
+				E4541E0B24F8933600965ADA /* 14 - I cuttingRope.cpp in Sources */,
 				E4CA103824EB99BE0036522E /* 25 mergeTwoLists.cpp in Sources */,
+				E4541E3124F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp in Sources */,
+				E4541E2324F8BC7F00965ADA /* 32 - I levelOrder.cpp in Sources */,
 				E421C36424EB7E9E00C100FB /* main.cpp in Sources */,
 				E4EAE7A724F69563001AF2B1 /* 53 - I search.cpp in Sources */,
+				E4541E2724F8E58200965ADA /* 07 buildTree.cpp in Sources */,
 				E4EAE79324F657F9001AF2B1 /* 04 findNumberIn2DArray.cpp in Sources */,
 				E4EAE7A324F687A8001AF2B1 /* 59 - I maxSlidingWindow.cpp in Sources */,
+				E4541E2F24F8F03F00965ADA /* 55 - II isBalanced.cpp in Sources */,
 				E4EAE79D24F67DCF001AF2B1 /* 39 majorityElement.cpp in Sources */,
+				E4541E0D24F8952500965ADA /* 18 deleteNode.cpp in Sources */,
 				E4FC44F924ECF7480015DB63 /* 42 maxSubArray.cpp in Sources */,
+				E4541E1524F89F8300965ADA /* 52 getIntersectionNode.cpp in Sources */,
+				E4541E1D24F8AEA800965ADA /* 27 mirrorTree.cpp in Sources */,
+				E4541E1324F89EFE00965ADA /* 62 lastRemaining.cpp in Sources */,
 				E4EAE79B24F66EA9001AF2B1 /* 29 spiralOrder.cpp in Sources */,
 				E4EAE79524F65B49001AF2B1 /* 50 firstUniqChar.cpp in Sources */,
 				E4EAE79724F65E03001AF2B1 /* 09 CQueue.cpp in Sources */,
 				E4EAE79124F656B1001AF2B1 /* 03 findRepeatNumber.cpp in Sources */,
+				E4541E2924F8E68E00965ADA /* 32 - II levelOrder.cpp in Sources */,
+				E4541E0F24F8976C00965ADA /* 22 getKthFromEnd.cpp in Sources */,
+				E4541E2B24F8E81F00965ADA /* 32 - III levelOrder.cpp in Sources */,
 				E421C36E24EB7EF300C100FB /* 51 reversePairs.cpp in Sources */,
 				E4EAE7A524F68DE0001AF2B1 /* 59 - II MaxQueue.cpp in Sources */,
 				E4EAE79924F661C7001AF2B1 /* 11 minArray.cpp in Sources */,
+				E4541E3324F9074900965ADA /* 68 - II lowestCommonAncestor.cpp in Sources */,
 				E4EAE79F24F6806A001AF2B1 /* 30 MinStack.cpp in Sources */,
+				E4541E1724F8A1BB00965ADA /* 35 copyRandomList.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
