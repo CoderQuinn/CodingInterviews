@@ -35,6 +35,17 @@
 		E48538CB24FCF8E800A688E3 /* 47 maxValue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E48538CA24FCF8E800A688E3 /* 47 maxValue.cpp */; };
 		E48538CD24FD360E00A688E3 /* 63 maxProfit.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E48538CC24FD360E00A688E3 /* 63 maxProfit.cpp */; };
 		E48538CF24FD374300A688E3 /* 16 mypow.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E48538CE24FD374300A688E3 /* 16 mypow.cpp */; };
+		E49CDFDF25034CF1006F537F /* 12 Word Search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49CDFDE25034CF1006F537F /* 12 Word Search.cpp */; };
+		E49E1DD12507DC4400245AC3 /* 19 isMatch.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DD02507DC4400245AC3 /* 19 isMatch.cpp */; };
+		E49E1DD32507DCBB00245AC3 /* 13 movingCount.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DD22507DCBB00245AC3 /* 13 movingCount.cpp */; };
+		E49E1DD52508A4F500245AC3 /* 17 printNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DD42508A4F500245AC3 /* 17 printNumbers.cpp */; };
+		E49E1DD72508B51600245AC3 /* 20 isNumber.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DD62508B51600245AC3 /* 20 isNumber.cpp */; };
+		E49E1DD92508C7DD00245AC3 /* 21 exchange.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DD82508C7DD00245AC3 /* 21 exchange.cpp */; };
+		E49E1DDB2508CC5F00245AC3 /* 31 validateStackSequences.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DDA2508CC5F00245AC3 /* 31 validateStackSequences.cpp */; };
+		E49E1DDD2508DAE800245AC3 /* 33 verifyPostorder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DDC2508DAE800245AC3 /* 33 verifyPostorder.cpp */; };
+		E49E1DDF2508DE8200245AC3 /* 34 pathSum.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DDE2508DE8200245AC3 /* 34 pathSum.cpp */; };
+		E49E1DE12508E89200245AC3 /* 36 treeToDoublyList.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DE02508E89200245AC3 /* 36 treeToDoublyList.cpp */; };
+		E49E1DE32509015000245AC3 /* 38 字符串的排列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E49E1DE22509015000245AC3 /* 38 字符串的排列.cpp */; };
 		E4CA103824EB99BE0036522E /* 25 mergeTwoLists.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4CA103724EB99BE0036522E /* 25 mergeTwoLists.cpp */; };
 		E4CA103A24EB9E310036522E /* 40 getLeastNumbers.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4CA103924EB9E310036522E /* 40 getLeastNumbers.cpp */; };
 		E4CB2E2B24F6B06E00D5EA1A /* 41 MedianFinder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4CB2E2A24F6B06E00D5EA1A /* 41 MedianFinder.cpp */; };
@@ -97,6 +108,17 @@
 		E48538CA24FCF8E800A688E3 /* 47 maxValue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "47 maxValue.cpp"; sourceTree = "<group>"; };
 		E48538CC24FD360E00A688E3 /* 63 maxProfit.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "63 maxProfit.cpp"; sourceTree = "<group>"; };
 		E48538CE24FD374300A688E3 /* 16 mypow.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "16 mypow.cpp"; sourceTree = "<group>"; };
+		E49CDFDE25034CF1006F537F /* 12 Word Search.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "12 Word Search.cpp"; sourceTree = "<group>"; };
+		E49E1DD02507DC4400245AC3 /* 19 isMatch.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "19 isMatch.cpp"; sourceTree = "<group>"; };
+		E49E1DD22507DCBB00245AC3 /* 13 movingCount.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "13 movingCount.cpp"; sourceTree = "<group>"; };
+		E49E1DD42508A4F500245AC3 /* 17 printNumbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "17 printNumbers.cpp"; sourceTree = "<group>"; };
+		E49E1DD62508B51600245AC3 /* 20 isNumber.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "20 isNumber.cpp"; sourceTree = "<group>"; };
+		E49E1DD82508C7DD00245AC3 /* 21 exchange.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "21 exchange.cpp"; sourceTree = "<group>"; };
+		E49E1DDA2508CC5F00245AC3 /* 31 validateStackSequences.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "31 validateStackSequences.cpp"; sourceTree = "<group>"; };
+		E49E1DDC2508DAE800245AC3 /* 33 verifyPostorder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "33 verifyPostorder.cpp"; sourceTree = "<group>"; };
+		E49E1DDE2508DE8200245AC3 /* 34 pathSum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "34 pathSum.cpp"; sourceTree = "<group>"; };
+		E49E1DE02508E89200245AC3 /* 36 treeToDoublyList.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "36 treeToDoublyList.cpp"; sourceTree = "<group>"; };
+		E49E1DE22509015000245AC3 /* 38 字符串的排列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "38 字符串的排列.cpp"; sourceTree = "<group>"; };
 		E4CA103724EB99BE0036522E /* 25 mergeTwoLists.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "25 mergeTwoLists.cpp"; sourceTree = "<group>"; };
 		E4CA103924EB9E310036522E /* 40 getLeastNumbers.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "40 getLeastNumbers.cpp"; sourceTree = "<group>"; };
 		E4CB2E2A24F6B06E00D5EA1A /* 41 MedianFinder.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "41 MedianFinder.cpp"; sourceTree = "<group>"; };
@@ -165,11 +187,17 @@
 				E48538C624FCEE8400A688E3 /* 10- I fib.cpp */,
 				E48538C824FCF42600A688E3 /* 10- II numWays.cpp */,
 				E4EAE79824F661C7001AF2B1 /* 11 minArray.cpp */,
+				E49CDFDE25034CF1006F537F /* 12 Word Search.cpp */,
+				E49E1DD22507DCBB00245AC3 /* 13 movingCount.cpp */,
 				E4541E0A24F8933600965ADA /* 14 - I cuttingRope.cpp */,
 				E4E2D88E24FC1F5700F267B7 /* 14 - II cuttingRope.cpp */,
 				E4541E1824F8A97F00965ADA /* 15 hammingWeight.cpp */,
 				E48538CE24FD374300A688E3 /* 16 mypow.cpp */,
+				E49E1DD42508A4F500245AC3 /* 17 printNumbers.cpp */,
 				E4541E0C24F8952500965ADA /* 18 deleteNode.cpp */,
+				E49E1DD02507DC4400245AC3 /* 19 isMatch.cpp */,
+				E49E1DD62508B51600245AC3 /* 20 isNumber.cpp */,
+				E49E1DD82508C7DD00245AC3 /* 21 exchange.cpp */,
 				E4541E0E24F8976C00965ADA /* 22 getKthFromEnd.cpp */,
 				E4541E1024F89A2400965ADA /* 24 reverseList.cpp */,
 				E4CA103724EB99BE0036522E /* 25 mergeTwoLists.cpp */,
@@ -178,10 +206,15 @@
 				E4541E2024F8B2D600965ADA /* 28 isSymmetric.cpp */,
 				E4EAE79A24F66EA9001AF2B1 /* 29 spiralOrder.cpp */,
 				E4EAE79E24F6806A001AF2B1 /* 30 MinStack.cpp */,
+				E49E1DDA2508CC5F00245AC3 /* 31 validateStackSequences.cpp */,
 				E4541E2224F8BC7F00965ADA /* 32 - I levelOrder.cpp */,
 				E4541E2824F8E68E00965ADA /* 32 - II levelOrder.cpp */,
 				E4541E2A24F8E81E00965ADA /* 32 - III levelOrder.cpp */,
+				E49E1DDC2508DAE800245AC3 /* 33 verifyPostorder.cpp */,
+				E49E1DDE2508DE8200245AC3 /* 34 pathSum.cpp */,
 				E4541E1624F8A1BB00965ADA /* 35 copyRandomList.cpp */,
+				E49E1DE02508E89200245AC3 /* 36 treeToDoublyList.cpp */,
+				E49E1DE22509015000245AC3 /* 38 字符串的排列.cpp */,
 				E4EAE79C24F67DCF001AF2B1 /* 39 majorityElement.cpp */,
 				E4CA103924EB9E310036522E /* 40 getLeastNumbers.cpp */,
 				E4CB2E2A24F6B06E00D5EA1A /* 41 MedianFinder.cpp */,
@@ -269,6 +302,8 @@
 				E4CA103A24EB9E310036522E /* 40 getLeastNumbers.cpp in Sources */,
 				E4541E2124F8B2D600965ADA /* 28 isSymmetric.cpp in Sources */,
 				E4541E2524F8C75500965ADA /* 26 isSubStructure.cpp in Sources */,
+				E49CDFDF25034CF1006F537F /* 12 Word Search.cpp in Sources */,
+				E49E1DD72508B51600245AC3 /* 20 isNumber.cpp in Sources */,
 				E4541E1924F8A97F00965ADA /* 15 hammingWeight.cpp in Sources */,
 				E4541E2D24F8EC5600965ADA /* 55 - I maxDepth.cpp in Sources */,
 				E4541E0924F88DA700965ADA /* 06 reversePrint.cpp in Sources */,
@@ -279,16 +314,20 @@
 				E4541E0B24F8933600965ADA /* 14 - I cuttingRope.cpp in Sources */,
 				E4CA103824EB99BE0036522E /* 25 mergeTwoLists.cpp in Sources */,
 				E4541E3124F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp in Sources */,
+				E49E1DD12507DC4400245AC3 /* 19 isMatch.cpp in Sources */,
 				E4541E2324F8BC7F00965ADA /* 32 - I levelOrder.cpp in Sources */,
 				E421C36424EB7E9E00C100FB /* main.cpp in Sources */,
 				E4EAE7A724F69563001AF2B1 /* 53 - I search.cpp in Sources */,
 				E4541E2724F8E58200965ADA /* 07 buildTree.cpp in Sources */,
 				E4EAE79324F657F9001AF2B1 /* 04 findNumberIn2DArray.cpp in Sources */,
 				E4EAE7A324F687A8001AF2B1 /* 59 - I maxSlidingWindow.cpp in Sources */,
+				E49E1DD92508C7DD00245AC3 /* 21 exchange.cpp in Sources */,
 				E4541E2F24F8F03F00965ADA /* 55 - II isBalanced.cpp in Sources */,
 				E4EAE79D24F67DCF001AF2B1 /* 39 majorityElement.cpp in Sources */,
 				E4541E0D24F8952500965ADA /* 18 deleteNode.cpp in Sources */,
+				E49E1DDD2508DAE800245AC3 /* 33 verifyPostorder.cpp in Sources */,
 				E4FC44F924ECF7480015DB63 /* 42 maxSubArray.cpp in Sources */,
+				E49E1DD32507DCBB00245AC3 /* 13 movingCount.cpp in Sources */,
 				E4541E1524F89F8300965ADA /* 52 getIntersectionNode.cpp in Sources */,
 				E4541E1D24F8AEA800965ADA /* 27 mirrorTree.cpp in Sources */,
 				E4541E1324F89EFE00965ADA /* 62 lastRemaining.cpp in Sources */,
@@ -296,18 +335,23 @@
 				E4EAE79524F65B49001AF2B1 /* 50 firstUniqChar.cpp in Sources */,
 				E48538CB24FCF8E800A688E3 /* 47 maxValue.cpp in Sources */,
 				E4EAE79724F65E03001AF2B1 /* 09 CQueue.cpp in Sources */,
+				E49E1DD52508A4F500245AC3 /* 17 printNumbers.cpp in Sources */,
+				E49E1DDF2508DE8200245AC3 /* 34 pathSum.cpp in Sources */,
 				E4E2D88F24FC1F5700F267B7 /* 14 - II cuttingRope.cpp in Sources */,
 				E4EAE79124F656B1001AF2B1 /* 03 findRepeatNumber.cpp in Sources */,
 				E4541E2924F8E68E00965ADA /* 32 - II levelOrder.cpp in Sources */,
 				E4541E0F24F8976C00965ADA /* 22 getKthFromEnd.cpp in Sources */,
 				E48538C724FCEE8400A688E3 /* 10- I fib.cpp in Sources */,
+				E49E1DE12508E89200245AC3 /* 36 treeToDoublyList.cpp in Sources */,
 				E4541E2B24F8E81F00965ADA /* 32 - III levelOrder.cpp in Sources */,
 				E421C36E24EB7EF300C100FB /* 51 reversePairs.cpp in Sources */,
 				E4EAE7A524F68DE0001AF2B1 /* 59 - II MaxQueue.cpp in Sources */,
 				E4EAE79924F661C7001AF2B1 /* 11 minArray.cpp in Sources */,
 				E4541E3324F9074900965ADA /* 68 - II lowestCommonAncestor.cpp in Sources */,
+				E49E1DDB2508CC5F00245AC3 /* 31 validateStackSequences.cpp in Sources */,
 				E4EAE79F24F6806A001AF2B1 /* 30 MinStack.cpp in Sources */,
 				E4541E1724F8A1BB00965ADA /* 35 copyRandomList.cpp in Sources */,
+				E49E1DE32509015000245AC3 /* 38 字符串的排列.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
