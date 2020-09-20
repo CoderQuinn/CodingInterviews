@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		E415544C24FAAF5C001DD7A5 /* 05 replaceSpace.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E415544B24FAAF5C001DD7A5 /* 05 replaceSpace.cpp */; };
+		E4193E8F2516FB51005AE1D1 /* 57 和为s的两个数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E8E2516FB51005AE1D1 /* 57 和为s的两个数字.cpp */; };
+		E4193E91251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E90251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp */; };
 		E421C36424EB7E9E00C100FB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E421C36324EB7E9E00C100FB /* main.cpp */; };
 		E421C36E24EB7EF300C100FB /* 51 reversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */; };
 		E4541E0924F88DA700965ADA /* 06 reversePrint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E0824F88DA700965ADA /* 06 reversePrint.cpp */; };
@@ -30,6 +32,13 @@
 		E4541E2F24F8F03F00965ADA /* 55 - II isBalanced.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E2E24F8F03F00965ADA /* 55 - II isBalanced.cpp */; };
 		E4541E3124F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E3024F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp */; };
 		E4541E3324F9074900965ADA /* 68 - II lowestCommonAncestor.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E3224F9074900965ADA /* 68 - II lowestCommonAncestor.cpp */; };
+		E46C894125146C1F003481C8 /* 44 数字序列中某一位的数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E46C894025146C1F003481C8 /* 44 数字序列中某一位的数字.cpp */; };
+		E46C894325148BC0003481C8 /* 45 把数组排成最小的数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E46C894225148BC0003481C8 /* 45 把数组排成最小的数.cpp */; };
+		E46C89452514903F003481C8 /* 46 把数字翻译成字符串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E46C89442514903F003481C8 /* 46 把数字翻译成字符串.cpp */; };
+		E46C8947251498A1003481C8 /* 54 二叉搜索树的第k大节点.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E46C8946251498A1003481C8 /* 54 二叉搜索树的第k大节点.cpp */; };
+		E46C894D2514A331003481C8 /* 49 丑数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E46C894C2514A331003481C8 /* 49 丑数.cpp */; };
+		E46C894F2514ABBE003481C8 /* 56 - I 数组中数字出现的次数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E46C894E2514ABBE003481C8 /* 56 - I 数组中数字出现的次数.cpp */; };
+		E46C89512514ACA2003481C8 /* 56 - II 数组中数字出现的次数 II.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E46C89502514ACA2003481C8 /* 56 - II 数组中数字出现的次数 II.cpp */; };
 		E48538C724FCEE8400A688E3 /* 10- I fib.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E48538C624FCEE8400A688E3 /* 10- I fib.cpp */; };
 		E48538C924FCF42600A688E3 /* 10- II numWays.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E48538C824FCF42600A688E3 /* 10- II numWays.cpp */; };
 		E48538CB24FCF8E800A688E3 /* 47 maxValue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E48538CA24FCF8E800A688E3 /* 47 maxValue.cpp */; };
@@ -82,6 +91,8 @@
 
 /* Begin PBXFileReference section */
 		E415544B24FAAF5C001DD7A5 /* 05 replaceSpace.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "05 replaceSpace.cpp"; sourceTree = "<group>"; };
+		E4193E8E2516FB51005AE1D1 /* 57 和为s的两个数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "57 和为s的两个数字.cpp"; sourceTree = "<group>"; };
+		E4193E90251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "57 - II 和为s的连续正数序列.cpp"; sourceTree = "<group>"; };
 		E421C36024EB7E9E00C100FB /* Leetcode-CodingInterviews */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Leetcode-CodingInterviews"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E421C36324EB7E9E00C100FB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "51 reversePairs.cpp"; sourceTree = "<group>"; };
@@ -105,6 +116,13 @@
 		E4541E2E24F8F03F00965ADA /* 55 - II isBalanced.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "55 - II isBalanced.cpp"; sourceTree = "<group>"; };
 		E4541E3024F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "68 - I lowestCommonAncestor.cpp"; sourceTree = "<group>"; };
 		E4541E3224F9074900965ADA /* 68 - II lowestCommonAncestor.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "68 - II lowestCommonAncestor.cpp"; sourceTree = "<group>"; };
+		E46C894025146C1F003481C8 /* 44 数字序列中某一位的数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "44 数字序列中某一位的数字.cpp"; sourceTree = "<group>"; };
+		E46C894225148BC0003481C8 /* 45 把数组排成最小的数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "45 把数组排成最小的数.cpp"; sourceTree = "<group>"; };
+		E46C89442514903F003481C8 /* 46 把数字翻译成字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "46 把数字翻译成字符串.cpp"; sourceTree = "<group>"; };
+		E46C8946251498A1003481C8 /* 54 二叉搜索树的第k大节点.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "54 二叉搜索树的第k大节点.cpp"; sourceTree = "<group>"; };
+		E46C894C2514A331003481C8 /* 49 丑数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "49 丑数.cpp"; sourceTree = "<group>"; };
+		E46C894E2514ABBE003481C8 /* 56 - I 数组中数字出现的次数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "56 - I 数组中数字出现的次数.cpp"; sourceTree = "<group>"; };
+		E46C89502514ACA2003481C8 /* 56 - II 数组中数字出现的次数 II.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "56 - II 数组中数字出现的次数 II.cpp"; sourceTree = "<group>"; };
 		E48538C624FCEE8400A688E3 /* 10- I fib.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10- I fib.cpp"; sourceTree = "<group>"; };
 		E48538C824FCF42600A688E3 /* 10- II numWays.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "10- II numWays.cpp"; sourceTree = "<group>"; };
 		E48538CA24FCF8E800A688E3 /* 47 maxValue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "47 maxValue.cpp"; sourceTree = "<group>"; };
@@ -225,15 +243,24 @@
 				E4CB2E2A24F6B06E00D5EA1A /* 41 MedianFinder.cpp */,
 				E4FC44F824ECF7480015DB63 /* 42 maxSubArray.cpp */,
 				E4EB63B325138E7F006D318C /* 43 1～n整数中1出现的次数.cpp */,
+				E46C894025146C1F003481C8 /* 44 数字序列中某一位的数字.cpp */,
+				E46C894225148BC0003481C8 /* 45 把数组排成最小的数.cpp */,
+				E46C89442514903F003481C8 /* 46 把数字翻译成字符串.cpp */,
 				E48538CA24FCF8E800A688E3 /* 47 maxValue.cpp */,
 				E4EAE7A024F6837E001AF2B1 /* 48 lengthOfLongestSubstring.cpp */,
+				E46C894C2514A331003481C8 /* 49 丑数.cpp */,
 				E4EAE79424F65B49001AF2B1 /* 50 firstUniqChar.cpp */,
 				E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */,
 				E4541E1424F89F8300965ADA /* 52 getIntersectionNode.cpp */,
 				E4EAE7A624F69563001AF2B1 /* 53 - I search.cpp */,
 				E4EAE7A824F69C1F001AF2B1 /* 53 - II missingNumber.cpp */,
+				E46C8946251498A1003481C8 /* 54 二叉搜索树的第k大节点.cpp */,
 				E4541E2C24F8EC5600965ADA /* 55 - I maxDepth.cpp */,
 				E4541E2E24F8F03F00965ADA /* 55 - II isBalanced.cpp */,
+				E46C894E2514ABBE003481C8 /* 56 - I 数组中数字出现的次数.cpp */,
+				E46C89502514ACA2003481C8 /* 56 - II 数组中数字出现的次数 II.cpp */,
+				E4193E8E2516FB51005AE1D1 /* 57 和为s的两个数字.cpp */,
+				E4193E90251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp */,
 				E4EAE7A224F687A8001AF2B1 /* 59 - I maxSlidingWindow.cpp */,
 				E4EAE7A424F68DE0001AF2B1 /* 59 - II MaxQueue.cpp */,
 				E4541E1224F89EFE00965ADA /* 62 lastRemaining.cpp */,
@@ -304,13 +331,17 @@
 				E4EAE7A124F6837E001AF2B1 /* 48 lengthOfLongestSubstring.cpp in Sources */,
 				E4541E1124F89A2400965ADA /* 24 reverseList.cpp in Sources */,
 				E4CB2E2B24F6B06E00D5EA1A /* 41 MedianFinder.cpp in Sources */,
+				E4193E91251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp in Sources */,
 				E48538C924FCF42600A688E3 /* 10- II numWays.cpp in Sources */,
 				E4CA103A24EB9E310036522E /* 40 getLeastNumbers.cpp in Sources */,
 				E4541E2124F8B2D600965ADA /* 28 isSymmetric.cpp in Sources */,
+				E46C894325148BC0003481C8 /* 45 把数组排成最小的数.cpp in Sources */,
 				E4541E2524F8C75500965ADA /* 26 isSubStructure.cpp in Sources */,
+				E46C894D2514A331003481C8 /* 49 丑数.cpp in Sources */,
 				E49CDFDF25034CF1006F537F /* 12 Word Search.cpp in Sources */,
 				E49E1DD72508B51600245AC3 /* 20 isNumber.cpp in Sources */,
 				E4541E1924F8A97F00965ADA /* 15 hammingWeight.cpp in Sources */,
+				E46C89452514903F003481C8 /* 46 把数字翻译成字符串.cpp in Sources */,
 				E4541E2D24F8EC5600965ADA /* 55 - I maxDepth.cpp in Sources */,
 				E4541E0924F88DA700965ADA /* 06 reversePrint.cpp in Sources */,
 				E48538CF24FD374300A688E3 /* 16 mypow.cpp in Sources */,
@@ -334,11 +365,14 @@
 				E4541E0D24F8952500965ADA /* 18 deleteNode.cpp in Sources */,
 				E49E1DDD2508DAE800245AC3 /* 33 verifyPostorder.cpp in Sources */,
 				E4FC44F924ECF7480015DB63 /* 42 maxSubArray.cpp in Sources */,
+				E46C894F2514ABBE003481C8 /* 56 - I 数组中数字出现的次数.cpp in Sources */,
+				E46C894125146C1F003481C8 /* 44 数字序列中某一位的数字.cpp in Sources */,
 				E49E1DD32507DCBB00245AC3 /* 13 movingCount.cpp in Sources */,
 				E4541E1524F89F8300965ADA /* 52 getIntersectionNode.cpp in Sources */,
 				E4541E1D24F8AEA800965ADA /* 27 mirrorTree.cpp in Sources */,
 				E4541E1324F89EFE00965ADA /* 62 lastRemaining.cpp in Sources */,
 				E4EAE79B24F66EA9001AF2B1 /* 29 spiralOrder.cpp in Sources */,
+				E46C89512514ACA2003481C8 /* 56 - II 数组中数字出现的次数 II.cpp in Sources */,
 				E4EAE79524F65B49001AF2B1 /* 50 firstUniqChar.cpp in Sources */,
 				E48538CB24FCF8E800A688E3 /* 47 maxValue.cpp in Sources */,
 				E4EAE79724F65E03001AF2B1 /* 09 CQueue.cpp in Sources */,
@@ -349,12 +383,14 @@
 				E4541E2924F8E68E00965ADA /* 32 - II levelOrder.cpp in Sources */,
 				E4541E0F24F8976C00965ADA /* 22 getKthFromEnd.cpp in Sources */,
 				E48538C724FCEE8400A688E3 /* 10- I fib.cpp in Sources */,
+				E46C8947251498A1003481C8 /* 54 二叉搜索树的第k大节点.cpp in Sources */,
 				E49E1DE12508E89200245AC3 /* 36 treeToDoublyList.cpp in Sources */,
 				E4541E2B24F8E81F00965ADA /* 32 - III levelOrder.cpp in Sources */,
 				E421C36E24EB7EF300C100FB /* 51 reversePairs.cpp in Sources */,
 				E4EAE7A524F68DE0001AF2B1 /* 59 - II MaxQueue.cpp in Sources */,
 				E4EAE79924F661C7001AF2B1 /* 11 minArray.cpp in Sources */,
 				E49B31932513A64E007C2793 /* 37 序列化二叉树.cpp in Sources */,
+				E4193E8F2516FB51005AE1D1 /* 57 和为s的两个数字.cpp in Sources */,
 				E4541E3324F9074900965ADA /* 68 - II lowestCommonAncestor.cpp in Sources */,
 				E49E1DDB2508CC5F00245AC3 /* 31 validateStackSequences.cpp in Sources */,
 				E4EAE79F24F6806A001AF2B1 /* 30 MinStack.cpp in Sources */,
