@@ -10,6 +10,14 @@
 		E415544C24FAAF5C001DD7A5 /* 05 replaceSpace.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E415544B24FAAF5C001DD7A5 /* 05 replaceSpace.cpp */; };
 		E4193E8F2516FB51005AE1D1 /* 57 和为s的两个数字.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E8E2516FB51005AE1D1 /* 57 和为s的两个数字.cpp */; };
 		E4193E91251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E90251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp */; };
+		E4193E932517585A005AE1D1 /* 58 - I 翻转单词顺序.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E922517585A005AE1D1 /* 58 - I 翻转单词顺序.cpp */; };
+		E4193E972517B05D005AE1D1 /* 60 n个骰子的点数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E962517B05D005AE1D1 /* 60 n个骰子的点数.cpp */; };
+		E4193E992517B934005AE1D1 /* 58 - II 左旋转字符串.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E982517B934005AE1D1 /* 58 - II 左旋转字符串.cpp */; };
+		E4193E9B25184E8C005AE1D1 /* 67 把字符串转换成整数.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E9A25184E8C005AE1D1 /* 67 把字符串转换成整数.cpp */; };
+		E4193E9D25186671005AE1D1 /* 65 不用加减乘除做加法.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E9C25186671005AE1D1 /* 65 不用加减乘除做加法.cpp */; };
+		E4193E9F2518773B005AE1D1 /* 66 构建乘积数组.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193E9E2518773B005AE1D1 /* 66 构建乘积数组.cpp */; };
+		E4193EA12518830C005AE1D1 /* 61 扑克牌中的顺子.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193EA02518830C005AE1D1 /* 61 扑克牌中的顺子.cpp */; };
+		E4193EA32518848A005AE1D1 /* 64 求1+2+…+n.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4193EA22518848A005AE1D1 /* 64 求1+2+…+n.cpp */; };
 		E421C36424EB7E9E00C100FB /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E421C36324EB7E9E00C100FB /* main.cpp */; };
 		E421C36E24EB7EF300C100FB /* 51 reversePairs.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */; };
 		E4541E0924F88DA700965ADA /* 06 reversePrint.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E4541E0824F88DA700965ADA /* 06 reversePrint.cpp */; };
@@ -93,6 +101,14 @@
 		E415544B24FAAF5C001DD7A5 /* 05 replaceSpace.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "05 replaceSpace.cpp"; sourceTree = "<group>"; };
 		E4193E8E2516FB51005AE1D1 /* 57 和为s的两个数字.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "57 和为s的两个数字.cpp"; sourceTree = "<group>"; };
 		E4193E90251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "57 - II 和为s的连续正数序列.cpp"; sourceTree = "<group>"; };
+		E4193E922517585A005AE1D1 /* 58 - I 翻转单词顺序.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "58 - I 翻转单词顺序.cpp"; sourceTree = "<group>"; };
+		E4193E962517B05D005AE1D1 /* 60 n个骰子的点数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "60 n个骰子的点数.cpp"; sourceTree = "<group>"; };
+		E4193E982517B934005AE1D1 /* 58 - II 左旋转字符串.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "58 - II 左旋转字符串.cpp"; sourceTree = "<group>"; };
+		E4193E9A25184E8C005AE1D1 /* 67 把字符串转换成整数.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "67 把字符串转换成整数.cpp"; sourceTree = "<group>"; };
+		E4193E9C25186671005AE1D1 /* 65 不用加减乘除做加法.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "65 不用加减乘除做加法.cpp"; sourceTree = "<group>"; };
+		E4193E9E2518773B005AE1D1 /* 66 构建乘积数组.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "66 构建乘积数组.cpp"; sourceTree = "<group>"; };
+		E4193EA02518830C005AE1D1 /* 61 扑克牌中的顺子.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "61 扑克牌中的顺子.cpp"; sourceTree = "<group>"; };
+		E4193EA22518848A005AE1D1 /* 64 求1+2+…+n.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "64 求1+2+…+n.cpp"; sourceTree = "<group>"; };
 		E421C36024EB7E9E00C100FB /* Leetcode-CodingInterviews */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Leetcode-CodingInterviews"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E421C36324EB7E9E00C100FB /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		E421C36D24EB7EF300C100FB /* 51 reversePairs.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "51 reversePairs.cpp"; sourceTree = "<group>"; };
@@ -261,10 +277,18 @@
 				E46C89502514ACA2003481C8 /* 56 - II 数组中数字出现的次数 II.cpp */,
 				E4193E8E2516FB51005AE1D1 /* 57 和为s的两个数字.cpp */,
 				E4193E90251752E8005AE1D1 /* 57 - II 和为s的连续正数序列.cpp */,
+				E4193E922517585A005AE1D1 /* 58 - I 翻转单词顺序.cpp */,
+				E4193E982517B934005AE1D1 /* 58 - II 左旋转字符串.cpp */,
 				E4EAE7A224F687A8001AF2B1 /* 59 - I maxSlidingWindow.cpp */,
 				E4EAE7A424F68DE0001AF2B1 /* 59 - II MaxQueue.cpp */,
+				E4193E962517B05D005AE1D1 /* 60 n个骰子的点数.cpp */,
+				E4193EA02518830C005AE1D1 /* 61 扑克牌中的顺子.cpp */,
 				E4541E1224F89EFE00965ADA /* 62 lastRemaining.cpp */,
 				E48538CC24FD360E00A688E3 /* 63 maxProfit.cpp */,
+				E4193EA22518848A005AE1D1 /* 64 求1+2+…+n.cpp */,
+				E4193E9C25186671005AE1D1 /* 65 不用加减乘除做加法.cpp */,
+				E4193E9E2518773B005AE1D1 /* 66 构建乘积数组.cpp */,
+				E4193E9A25184E8C005AE1D1 /* 67 把字符串转换成整数.cpp */,
 				E4541E3024F8FE8C00965ADA /* 68 - I lowestCommonAncestor.cpp */,
 				E4541E3224F9074900965ADA /* 68 - II lowestCommonAncestor.cpp */,
 			);
@@ -336,8 +360,11 @@
 				E4CA103A24EB9E310036522E /* 40 getLeastNumbers.cpp in Sources */,
 				E4541E2124F8B2D600965ADA /* 28 isSymmetric.cpp in Sources */,
 				E46C894325148BC0003481C8 /* 45 把数组排成最小的数.cpp in Sources */,
+				E4193E9D25186671005AE1D1 /* 65 不用加减乘除做加法.cpp in Sources */,
+				E4193E9F2518773B005AE1D1 /* 66 构建乘积数组.cpp in Sources */,
 				E4541E2524F8C75500965ADA /* 26 isSubStructure.cpp in Sources */,
 				E46C894D2514A331003481C8 /* 49 丑数.cpp in Sources */,
+				E4193EA12518830C005AE1D1 /* 61 扑克牌中的顺子.cpp in Sources */,
 				E49CDFDF25034CF1006F537F /* 12 Word Search.cpp in Sources */,
 				E49E1DD72508B51600245AC3 /* 20 isNumber.cpp in Sources */,
 				E4541E1924F8A97F00965ADA /* 15 hammingWeight.cpp in Sources */,
@@ -369,6 +396,8 @@
 				E46C894125146C1F003481C8 /* 44 数字序列中某一位的数字.cpp in Sources */,
 				E49E1DD32507DCBB00245AC3 /* 13 movingCount.cpp in Sources */,
 				E4541E1524F89F8300965ADA /* 52 getIntersectionNode.cpp in Sources */,
+				E4193E9B25184E8C005AE1D1 /* 67 把字符串转换成整数.cpp in Sources */,
+				E4193E932517585A005AE1D1 /* 58 - I 翻转单词顺序.cpp in Sources */,
 				E4541E1D24F8AEA800965ADA /* 27 mirrorTree.cpp in Sources */,
 				E4541E1324F89EFE00965ADA /* 62 lastRemaining.cpp in Sources */,
 				E4EAE79B24F66EA9001AF2B1 /* 29 spiralOrder.cpp in Sources */,
@@ -379,6 +408,7 @@
 				E49E1DD52508A4F500245AC3 /* 17 printNumbers.cpp in Sources */,
 				E49E1DDF2508DE8200245AC3 /* 34 pathSum.cpp in Sources */,
 				E4E2D88F24FC1F5700F267B7 /* 14 - II cuttingRope.cpp in Sources */,
+				E4193EA32518848A005AE1D1 /* 64 求1+2+…+n.cpp in Sources */,
 				E4EAE79124F656B1001AF2B1 /* 03 findRepeatNumber.cpp in Sources */,
 				E4541E2924F8E68E00965ADA /* 32 - II levelOrder.cpp in Sources */,
 				E4541E0F24F8976C00965ADA /* 22 getKthFromEnd.cpp in Sources */,
@@ -391,10 +421,12 @@
 				E4EAE79924F661C7001AF2B1 /* 11 minArray.cpp in Sources */,
 				E49B31932513A64E007C2793 /* 37 序列化二叉树.cpp in Sources */,
 				E4193E8F2516FB51005AE1D1 /* 57 和为s的两个数字.cpp in Sources */,
+				E4193E972517B05D005AE1D1 /* 60 n个骰子的点数.cpp in Sources */,
 				E4541E3324F9074900965ADA /* 68 - II lowestCommonAncestor.cpp in Sources */,
 				E49E1DDB2508CC5F00245AC3 /* 31 validateStackSequences.cpp in Sources */,
 				E4EAE79F24F6806A001AF2B1 /* 30 MinStack.cpp in Sources */,
 				E4541E1724F8A1BB00965ADA /* 35 copyRandomList.cpp in Sources */,
+				E4193E992517B934005AE1D1 /* 58 - II 左旋转字符串.cpp in Sources */,
 				E49E1DE32509015000245AC3 /* 38 字符串的排列.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
