@@ -62,3 +62,43 @@ public:
         return ans;
     }
 };
+
+class Solution1
+{
+public:
+    int search(vector<int>& nums, int target)
+    {
+        int n = nums.size();
+        if (n == 0)
+        {
+            return 0;
+        }
+        int i = 0, j = 0;
+
+        int l = 0, r = n - 1;
+        while (l < r)
+        {
+            int mid = (l + r) >> 1;
+            if (nums[mid] >= target)
+                r = mid;
+            else
+                l = mid + 1;
+        }
+        if(nums[l] != target) return 0;
+        
+        i = l;
+
+        l = 0, r = n - 1;
+        while (l < r)
+        {
+            int mid = (l + r + 1) >> 1;
+            if (nums[mid] <= target)
+                l = mid;
+            else
+                r = mid - 1;
+        }
+        j = r;
+
+        return j - i + 1;
+    }
+};

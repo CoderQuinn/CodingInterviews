@@ -28,3 +28,24 @@ public:
         return ans;
     }
 };
+
+class Solution1
+{
+public:
+    char firstNotRepeatingChar(string s)
+    {
+        unordered_map<char, int> digits;
+        for (auto &ch : s)
+        {
+            digits[ch]++;
+        }
+
+        for (auto &ch : s)
+        {
+            if(digits[ch] == 1)
+                return ch;
+        }
+
+        return '#';
+    }
+};

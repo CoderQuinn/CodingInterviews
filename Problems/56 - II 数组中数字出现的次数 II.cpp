@@ -39,3 +39,36 @@ public:
         return one;
     }
 };
+
+class Solution2
+{
+public:
+    int exp[32] = {0};
+    int findNumberAppearingOnce(vector<int> &nums)
+    {
+        for (auto &num : nums)
+        {
+            for (int i = 0; i < 32; i++)
+            {
+                if (num >> i & 1)
+                    exp[i]++;
+            }
+        }
+
+        int n = 3;
+        for (int i = 0; i < 32; i++)
+        {
+            exp[i] %= n;
+        }
+
+        int res = 0;
+        for (int i = 0; i < 32; i++)
+        {
+            if (exp[i] > 0)
+            {
+                res |= (1 << i);
+            }
+        }
+        return res;
+    }
+};

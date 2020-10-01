@@ -65,17 +65,18 @@ public:
 class Solution1 {
 public:
     TreeNode *res = NULL;
-    int bfs(TreeNode* root, TreeNode* p, TreeNode* q) {
+    int dfs(TreeNode* root, TreeNode* p, TreeNode* q) {
         if (!root) return 0x00;
-        int state = bfs(root->left, p, q);
+        int state = dfs(root->left, p, q);
 
         if (root == p) {
             state |= 0x01;
-        } else if(root == q) {
+        }
+        if(root == q) {
             state |= 0x10;
         }
         
-        state  |= bfs(root->right, p, q);
+        state  |= dfs(root->right, p, q);
         
         if (state == 0x11 && !res) {
             res = root;
@@ -85,7 +86,7 @@ public:
     }
     
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        bfs(root, p, q);
+        dfs(root, p, q);
         return res;
     }
 };
