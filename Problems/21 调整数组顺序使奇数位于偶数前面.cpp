@@ -15,10 +15,10 @@ public:
         int i = 0, j = int(nums.size() - 1);
         
         while (i < j) {
-            while (i <= j && (nums[i] & 1)) {
+            while (i < j && (nums[i] & 1)) {
                 i++;
             }
-            while (i <= j && !(nums[j] & 1)) {
+            while (i < j && !(nums[j] & 1)) {
                 j--;
             }
             if (i < j) {

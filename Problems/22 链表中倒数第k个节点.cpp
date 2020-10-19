@@ -16,26 +16,40 @@ struct ListNode {
     ListNode(int x) : val(x), next(NULL) {}
 };
 
-class Solution {
+class Solution
+{
 public:
-    ListNode* getKthFromEnd(ListNode* head, int k) {
-        if (!head) return nullptr;
-        
-        ListNode *dummy = new ListNode(0);
+    ListNode *getKthFromEnd(ListNode *head, int k)
+    {
+        ListNode *dummy = new ListNode(-1);
         dummy->next = head;
-        ListNode *fast = dummy;
+
         ListNode *slow = dummy;
-        for (int i = 0; i < k; i++) {
-            if (fast) {
+        ListNode *fast = dummy;
+        // 倒数n - k + 1个
+        for (int i = 0; i < k; i++) // 前进了k次
+        {
+            if (fast)
+            {
                 fast = fast->next;
-            } else {
-                return nullptr; // k overflow
+            }
+            else
+            {
+                return nullptr; // n < k
             }
         }
-        while (fast) {
-            slow = slow->next;
-            fast = fast->next;
+
+        if (!fast) // n < k
+        {
+            return nullptr;
         }
+
+        while (fast)
+        {
+            fast = fast->next;
+            slow = slow->next;
+        }
+
         return slow;
     }
 };

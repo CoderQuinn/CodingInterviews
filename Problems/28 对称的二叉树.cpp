@@ -23,14 +23,14 @@ class Solution {
 public:
     bool isSymmetric(TreeNode* root) {
         if (!root) return true;
-        return bfs(root->left, root->right);
+        return dfs(root->left, root->right);
     }
     
-    bool bfs(TreeNode *left, TreeNode *right) {
+    bool dfs(TreeNode *left, TreeNode *right) {
         if (!left && !right) return true;
         if (!left || !right || left->val != right->val) return false;
         
-        return bfs(left->left, right->right) && bfs(left->right, right->left);
+        return dfs(left->left, right->right) && dfs(left->right, right->left);
     }
 };
 
